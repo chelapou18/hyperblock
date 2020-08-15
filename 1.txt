@@ -1,0 +1,29 @@
+INIT// INICIAR 
+ADD AGREGAR ARCHIVO 
+COMMIT //GUARDAR CAMBIOS 
+
+ADD. CAMBIOS A TODA LA CARPETA 
+SATATUS // SI GUARDASTE TODOS LOS CAMBIOS 
+LOG // VER EL LOG 
+PUCSH // ENVIAR AL REPOCITORIO 
+
+//
+mkdir 
+touch ---documento 
+cat ver 
+history --historial de comandos 
+
+//
+ontracked ---tracked
+
+// git reset vvvvv --hard todo regresa a la version anterior 
+//git checkout
+
+//ramas 
+
+Master 
+
+Experimentos
+development  
+
+hotfix --rama para arreglos  
