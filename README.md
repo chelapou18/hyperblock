@@ -9,6 +9,7 @@ Block para el [curso de Git y Github](https://platzi.com/clases/1557-git-github/
 * El flujo de trabajo en Github
 * Buenas practicas
 * Trucos del profesor
-* Las personalidades multiples de Freddy(ana) - si lo ven lo entienden 
+* Las personalidades multiples de Freddy(ana) - si lo ven lo entienden
+* creado por el team platzi
 
 y como un amable recordatorio; **Este readme es un chiste(una siple practica del cuso de Git).** Si llegaste acá NO TE LO TOMES EN SERIO y mejor ve a ver el curso.
